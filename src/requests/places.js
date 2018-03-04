@@ -11,7 +11,7 @@ export default {
       description: 'Starbucks Corporation is an American coffee company and coffeehouse chain.'
     },
     {
-      imageUrl: '/images/place-2.jpg',
+      imageUrl: '/images/place-2.jpeg',
       title: 'Pizza de amor',
       description: 'Starbucks Corporation is an American coffee company and coffeehouse chain.'
     }
