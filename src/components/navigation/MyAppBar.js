@@ -6,7 +6,7 @@ export default class MyAppBar extends React.Component{
   render(){
     return(
       <AppBar
-       title="Places"
+       title="Instituto Departamental"
        style={{'backgroundColor': indigo600}}
       />
     );
