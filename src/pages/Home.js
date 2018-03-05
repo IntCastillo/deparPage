@@ -59,7 +59,7 @@ export default class Home extends React.Component{
 
         </div>
         <div style={{'backgroundColor': indigo400, 'padding': '50px', color: 'white'}}>
-          <h3 style={{'fontSize': '24px'}}>Sitios Populares</h3>
+          <h3 style={{'fontSize': '24px'}}>Nuestra Comunidad</h3>
           <TransitionGroup className="row">
             {this.places()}
           </TransitionGroup>
