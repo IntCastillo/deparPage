@@ -7,6 +7,21 @@
   text-align: center;
 
 }
+.textfield {
+   display: block !important;
+   width: 100% !important;
+}
+.Login-actions{
+    margin-top: 1em;
+    text-align: right;
+    background-position: center;
+}
+.Login-background {
+  height: 100vh;
+  background-size: cover;
+
+
+}
 .Header-Benefit{
   width: 32%;
   display: inline-block;

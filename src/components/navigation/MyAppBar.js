@@ -8,6 +8,7 @@ export default class MyAppBar extends React.Component{
       <AppBar
        title="Instituto Departamental"
        style={{'backgroundColor': indigo600}}
+       showMenuIconButton={false}
       />
     );
   }
