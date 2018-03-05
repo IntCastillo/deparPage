@@ -1,3 +1,4 @@
 # Single Page Aplication con ReacJS
 
-<p> Aplicación Web funcional primaria.</p>
+<p> Aplicación Web para la presentación <strong>Institucional</strong>.</p>
+
