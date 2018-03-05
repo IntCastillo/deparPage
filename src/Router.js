@@ -10,7 +10,7 @@ import Dashboard from './pages/Dashboard'
 //import Signup from './pages/Signup'; Retirado Signup-page {Sólo Login.js}
 import App from './App';
 
-const  userSignedIn = false;
+const  userSignedIn = true;
 
 export default class Router extends React.Component{
    signedInRoutes(){

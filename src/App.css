@@ -7,6 +7,11 @@
   text-align: center;
 
 }
+.FAB{
+  position: fixed;
+  right: 2em;
+  bottom: 2em;
+}
 .textfield {
    display: block !important;
    width: 100% !important;
