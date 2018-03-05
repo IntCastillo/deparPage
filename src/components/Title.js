@@ -5,7 +5,7 @@ export default class Title extends React.Component {
     return(
       <div>
         <h1>I.E.M Departamental</h1>
-        <p>Descubre lugares de manera simple</p>
+        <p>Emprender Aprendiendo | Noción Institucional.</p>
       </div>
     );
   }

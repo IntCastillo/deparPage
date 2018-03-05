@@ -49,7 +49,7 @@ export default class Home extends React.Component{
             <div className="Header-main">
               <Title></Title>
 
-              <RaisedButton label="Crear cuenta gratuita" secondary={true} />
+              <RaisedButton label="Novedades del Plantel" primary={true} />
 
               <img className="Header-illustration" src={process.env.PUBLIC_URL + '/images/top-background.png'} />
             </div>
