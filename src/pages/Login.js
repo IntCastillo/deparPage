@@ -32,7 +32,7 @@ export default class Login extends React.Component{
                     <Route path="/login" exact render={()=>{
                           return(
                             <div>
-                            <Link to="/signup" sytle={{marginRight:"1em"}}>Crear nueva cuenta</Link>
+                            <Link to="/signup" style={{marginRight:"1em"}}>Crear nueva cuenta</Link>
                             <RaisedButton label="Ingresar" secondary={true} />
                              </div>
                           );
@@ -40,7 +40,7 @@ export default class Login extends React.Component{
                     <Route path="/signup" exact render={()=>{
                           return(
                             <div>
-                            <Link to="/login" sytle={{marginRight:"1em"}}>Ya tengo Cuenta</Link>
+                            <Link to="/login" style={{marginRight:"1em"}}>Ya tengo Cuenta</Link>
                             <RaisedButton label="Crear Cuenta" secondary={true} />
                              </div>
                           );
