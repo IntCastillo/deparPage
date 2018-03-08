@@ -22,3 +22,5 @@ class App extends Component {
 }
 
 export default App;
+
+//Configurar el sistema para el posterior control
